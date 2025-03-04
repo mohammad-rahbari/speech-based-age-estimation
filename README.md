@@ -58,30 +58,6 @@ This project aims to estimate the age of a speaker based on their vocal characte
 
 ## 🚀 Installation & Usage
 
-### 🔹 Requirements
-
-Ensure you have the required dependencies installed. Run:
-
-```bash
-pip install -r requirements.txt
-```
-
-### 🔹 Running the Project
-
-To run the age prediction pipeline, use the following command:
-
-```bash
-python src/main.py
-```
-
-For Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-Then open `speech-based-age-estimation.ipynb`.
-
 ## 📂 Project Structure
 
 ```
